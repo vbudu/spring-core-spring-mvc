@@ -1,4 +1,4 @@
-package guru.springframework;
+package guru.springframework.springboot.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;

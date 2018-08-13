@@ -1,9 +1,9 @@
-package guru.springframework;
+package guru.springframework.springboot.services;
 
 import org.springframework.stereotype.Component;
 
 @Component
-public class HelloWorldImpl implements IHelloWorldService{
+public class HelloWorldImpl implements IHelloWorldService {
     public HelloWorldImpl() {
     }
 

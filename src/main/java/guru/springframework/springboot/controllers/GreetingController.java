@@ -1,7 +1,6 @@
-package guru.springframework.controllers;
+package guru.springframework.springboot.controllers;
 
-import guru.springframework.services.HelloWorldService;
-import guru.springframework.services.HelloWorldServiceEnglishImpl;
+import guru.springframework.springboot.services.HelloWorldService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
