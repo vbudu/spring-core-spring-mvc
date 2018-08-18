@@ -1,4 +1,4 @@
-package guru.springframework;
+package com.university.reservation.classes;
 
 import com.university.reservation.classes.controllers.ReservationController;
 import com.university.reservation.classes.dtos.ClassRoom;
